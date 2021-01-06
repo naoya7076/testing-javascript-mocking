@@ -1,4 +1,3 @@
-const { TestScheduler } = require('jest')
 const thumbWar = require('../thumb-war')
 const utils = require('../utils')
 
