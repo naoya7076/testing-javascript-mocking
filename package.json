@@ -19,6 +19,7 @@
   "homepage": "https://github.com/naoya7076/testing-javascript-mocking#readme",
   "dependencies": {},
   "devDependencies": {
+    "@types/jest": "^26.0.19",
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
     "babel-preset-env": "^1.7.0",
